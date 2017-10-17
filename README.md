@@ -13,7 +13,7 @@ This README would normally document whatever steps are necessary to get your app
 ### How do I get set up? ###
 
 * Summary of set up
-
+npm install -g elm
 
 * Configuration
 
@@ -24,6 +24,9 @@ This README would normally document whatever steps are necessary to get your app
     
 ##### For the production ( ie for the upload on an hosting server)
 * Dependencies
+
+    elm
+
 
 * Database configuration
 * How to run tests
