@@ -21,11 +21,7 @@ This README would normally document whatever steps are necessary to get your app
 
 
 >2 Prod config :
-
-Call it as a shell command
-
     
-
 ##### For the production ( ie for the upload on an hosting server)
 * Dependencies
 

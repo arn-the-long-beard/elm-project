@@ -1,0 +1,25 @@
+{
+  "name": "elm-platform",
+  "version": "1.0.0",
+  "description": "a small platform to test and learn elm",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arn-the-long-beard/elm-project.git"
+  },
+  "keywords": [
+    "elm",
+    "node.js",
+    "learn",
+    "newbie"
+  ],
+  "author": "“arn-the-long-beard” <arn.menant@gmail.com> (https://github.com/arn-the-long-beard)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arn-the-long-beard/elm-project/issues"
+  },
+  "homepage": "https://github.com/arn-the-long-beard/elm-project#readme"
+}
